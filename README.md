@@ -22,7 +22,7 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 
 ### Why am I qualified for this talk? 
 
-* [ ] Should I call this "Mine and Buildertrend's History" or something like that?
+* [ ] Should I call this "My History with Buildertrend" or something like that?
 
 * Manager, Trainer, Team Lead as BT grew from 20 -> 70 devs
   * [ ] Gif of team from Nicholas st
