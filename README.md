@@ -37,7 +37,7 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 
 ### What we've been through at Buildertrend
 
-* [ ] Does it make sense to cover the mistakeks at Buildertrend
+* [ ] Does it make sense to cover the mistakes at Buildertrend
   * Teams too large
   * Strong devs becoming team leads
   * Too junior
@@ -68,7 +68,7 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 ### The Master Detective
 
 * Self-taught; abrasive; thinks they work best alone
-* Has contingincenies for the failure of teammates
+* Has contingencies for the failure of teammates
   * ie. re-writes their code after they go to bed
 * [ ] Find Batman image
 
@@ -132,9 +132,9 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 
 * Justice League
 * Individually already unbeatable
-* Unanswering to any higher power
+* Not answering to any higher power
 
-### Avengers
+### The "Ideal" Team (from a nerdy development manager's perspective?)
 
 * [ ] Better name for the category?
 * Team comes together when problems need to be solved
@@ -143,5 +143,5 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
   * Ex. Rogue, Kitty Pryde (for X-men though), Sam Wilson
 * Various teams to focus on different initiatives
   * Teams within teams?
-  * Ex Mighty Avengers, Secret Avengers, New Avengers, Uncanny Avengerss
-* Contain indivduals previously mentioned.
+  * Ex Mighty Avengers, Secret Avengers, New Avengers, Uncanny Avengers
+* Contain individuals previously mentioned.
