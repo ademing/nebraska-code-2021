@@ -14,9 +14,13 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 
 "management, team-building, development-teams" |
 
+---
+
 ## Introduction
 
-### Why am I qualified for this talk?
+### Why am I qualified for this talk? 
+
+* [ ] Should I call this "Mine and Buildertrend's History" or something like that?
 
 * Manager, Trainer, Team Lead as BT grew from 20 -> 70 devs
   * [ ] Gif of team from Nicholas st
@@ -29,11 +33,12 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 * Overall Nerd Dad
   * [ ] Picture of Sloan, and I, with stormtroopers
 
-### What do I want to prove?
+### What we've been through at Buildertrend
 
-* Developers typically align with archetypes
-* We can use the last 100 years of Superhero stories as a basis for good dev teams
-* How we can work together to "save the day"
+* [ ] Does it make sense to cover the mistakeks at Buildertrend
+  * Teams too large
+  * Strong devs becoming team leads
+  * Too junior
 
 ### What won't be covered?
 
@@ -41,6 +46,14 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 * Why Superman sucks
 * Where do Villains fall into this
 * How people are more complex than this. We're simplifying to help form strong teams.
+
+### How can we use Superheroes to form strong teams?
+ 
+* Developers typically align with archetypes
+* We can use the last 100 years of Superhero stories as a basis for good dev teams
+* How we can work together to "save the day"
+
+---
 
 ## What superhero archetypes match developers?
 
@@ -59,11 +72,12 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 
 ### The Tool Mabn
 
-Technolust
-Chad
-uses new tools as quick as possible
-ex. Instant kill mode
-Jesse's idea
+* Someone who is constantly using the latest "and greatest" tool or library
+  * We've called it technolust
+* Need to coach them how to use the correct tool for a job
+  * Take time to vet
+  * Be prepared to stick with something legacy to balance out the business need
+* [ ] Add gif of Instant kill mode
 
 ### The Eagle Scout
 
@@ -72,6 +86,15 @@ Jesse's idea
 * Code reviews expectations are higher for these individuals
 
 * [ ] Is there a more gender diverse name for this slide?
+
+### The "Experienced" Coach
+
+* Cecil Stegman, Nick Fury, Amanda Waller
+* Various methodologies to get people on track
+  * Not always good... Suicide Squad
+* Might not do the "hands on" work
+
+---
 
 ## How do we use this to form teams?
 
