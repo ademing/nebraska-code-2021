@@ -28,6 +28,7 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
   - [ ] Gif of team from Nicholas st
   - [ ] Gif of bigger dev group
   - [ ] Get accurate numbers of engineers
+  - [ ] Double check the numbers are correct
 - Watched Spider-man, Superman, Batman
   - [ ] Can I find the old Batman costume picture?
 - Comic reader
