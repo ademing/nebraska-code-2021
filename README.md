@@ -60,6 +60,8 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 
 ## The Heroes
 
+* [ ] Should I do a side-by-side comparison of devs vs heroes?
+
 ### The Speedster
 
 - Solve problems fast; Leave a trail of destruction in their wake
