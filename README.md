@@ -139,7 +139,9 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 
 ### The "Ideal" Team (from a nerdy development manager's perspective?)
 
-- [ ] Better name for the category?
+- [X] Better name for the category?
+  - Trying team of teams
+  - Might want to say team of teams of ...
 - Team comes together when problems need to be solved
 - Leaders are rotating
 - Junior members are raised to be the leaders
