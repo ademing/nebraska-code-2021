@@ -20,6 +20,8 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 
 ## Introduction
 
+* Joke about Superhero developers compared to Rockstar developers.
+
 ### Why am I qualified for this talk?
 
 - [X] Should I call this "My History with Buildertrend" or something like that?
