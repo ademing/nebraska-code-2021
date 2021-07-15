@@ -22,23 +22,23 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 
 ### Why am I qualified for this talk?
 
-- [ ] Should I call this "My History with Buildertrend" or something like that?
+- [X] Should I call this "My History with Buildertrend" or something like that?
 
 - Manager, Trainer, Team Lead as BT grew from 20 -> 70 devs
-  - [ ] Gif of team from Nicholas st
-  - [ ] Gif of bigger dev group
-  - [ ] Get accurate numbers of engineers
-  - [ ] Double check the numbers are correct
+  - [X] Gif of team from Nicholas st
+  - [X] Gif of bigger dev group
+  - [X] Get accurate numbers of engineers
+  - [X] Double check the numbers are correct
 - Watched Spider-man, Superman, Batman
-  - [ ] Can I find the old Batman costume picture?
+  - [X] Can I find the old Batman costume picture?
 - Comic reader
-  - [ ] Picture from college where I'm reading comics?
+  - [X] Picture from college where I'm reading comics?
 - Overall Nerd Dad
-  - [ ] Picture of Sloan, and I, with stormtroopers
+  - [X] Picture of Sloan, and I, with stormtroopers
 
 ### What we've been through at Buildertrend
 
-- [ ] Does it make sense to cover the mistakes at Buildertrend
+- [X] Does it make sense to cover the mistakes at Buildertrend
   - Teams too large
   - Strong devs becoming team leads
   - Too junior
@@ -60,29 +60,32 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 
 ## The Heroes
 
-* [ ] Should I do a side-by-side comparison of devs vs heroes?
+* [X] Should I do a side-by-side comparison of devs vs heroes?
+  * Nope
 
 ### The Speedster
 
 - Solve problems fast; Leave a trail of destruction in their wake
   - Kind of like consultants (Jesse's Idea)
-- [ ] Can I use the gif from the CW of car windows shattering?
+- [X] Can I use the gif from the CW of car windows shattering?
+  - Couldn't find it without recording a youtube video.
+  - Use the Justice League one instead.
 
 ### The Master Detective
 
 - Self-taught; abrasive; thinks they work best alone
 - Has contingencies for the failure of teammates
   - ie. re-writes their code after they go to bed
-- [ ] Find Batman image
+- [X] Find Batman image
 
-### The Tool Man
+### ~~The Tool Man~~
 
-- Someone who is constantly using the latest "and greatest" tool or library
-  - We've called it technolust
-- Need to coach them how to use the correct tool for a job
-  - Take time to vet
-  - Be prepared to stick with something legacy to balance out the business need
-- [ ] Add gif of Instant kill mode
+- ~~Someone who is constantly using the latest "and greatest" tool or library~~
+  - ~~We've called it technolust~~
+- ~~Need to coach them how to use the correct tool for a job~~
+  - ~~Take time to vet~~
+  - ~~Be prepared to stick with something legacy to balance out the business need~~
+- ~~[X] Add gif of Instant kill mode~~~~
 
 ### The Eagle Scout
 
@@ -90,7 +93,7 @@ As a developer who has lead many different teams, and who has an encyclopedic kn
 - Follows the rules laid out "to a t"
 - Code reviews expectations are higher for these individuals
 
-- [ ] Is there a more gender diverse name for this slide?
+- [X] Is there a more gender diverse name for this slide?
 
 ### The "Experienced" Coach
 
